@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+from sys import argv
+import math
+"""gets the first two factors of any number"""
